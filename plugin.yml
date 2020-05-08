@@ -1,0 +1,23 @@
+name: FallenKingdom
+version: 0.0.1
+author: lenchanteur
+main: fr.lenchanteur.fk.Main
+commands:
+  start:
+    description: start the FK
+  pause:
+    description: put the FK in pause
+  sc:
+    description: send your coord to your TM
+  rules:
+    description: print in chat the rules of the game
+  dida:
+    desctription: lauch didactitiel
+  pb:
+    description: alert orga for a problem
+  pl:
+  plugins:
+  gm:
+  question:
+  build:
+  speed:
