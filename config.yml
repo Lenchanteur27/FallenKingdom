@@ -1,0 +1,34 @@
+teams:
+  violet:
+    name: "[Youtubeur]"
+    color: "&5"
+    data: 10
+    x: 280
+    y: 70
+    z: 70
+    xMin: 264
+    xMax: 293
+    zMin: 51
+    zMax: 80
+  orange: 
+    name: "[Streameur]"
+    color: "&6"
+    data: 1
+    x: -195
+    y: 70
+    z: -185
+    xMin: -206
+    xMax: -178
+    zMin: -200
+    zMax: -172
+  cyan:
+    name: "[Viewers]"
+    color: "&3"
+    data: 9
+    x: -207
+    y: 70
+    z: 300
+    xMin: -219
+    xMax: -190
+    zMin: 282
+    zMax: 311
